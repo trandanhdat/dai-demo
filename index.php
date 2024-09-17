@@ -43,7 +43,7 @@
  </html>
 
  //ĐỌC FILE
- //Đọc file
+
  echo readfile("file.txt"); //Đọc file
 
  $myFile = fopen("file.txt", "r") or die("Lỗi"); // Mở file
